@@ -1,2 +1,0 @@
-# LinkChangerBot-
-main.py
